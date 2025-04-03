@@ -5,8 +5,8 @@ import { ConfigModule } from '@nestjs/config';
 import { join } from 'path';
 
 import { AuthModule } from './auth/auth.module';
-//TODO fazer depois esses métodos para importar de forma certa
 import { CotasModule } from './cotas/cotas.module';
+//TODO fazer depois esses métodos para importar de forma certa
 import { AdministradorasModule } from './administradoras/administradoras.module';
 import { GruposModule } from './grupos/grupos.module';
 import { ClientesModule } from './clientes/clientes.module';
