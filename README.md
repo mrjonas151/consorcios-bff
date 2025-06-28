@@ -31,7 +31,7 @@ O sistema gerencia as seguintes entidades:
 ### 1. Clone o repositório:
 
 ```bash
-git clone https://bitbucket.com/jonas-bff.git
+git clone https://github.com./mrjonas151/consorcios-bff.git
 cd jonas-bff
 ```
 
