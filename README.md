@@ -11,7 +11,7 @@ Este projeto é um Backend-for-Frontend (BFF) para um sistema de gerenciamento d
 - **HttpService**: Cliente HTTP para comunicação com o backend
 - **Class-validator**: Validação de dados
 
-## 🏗️ Estrutura do Sistema
+## 🏗️ Estrutura do Sistema:
 
 O sistema gerencia as seguintes entidades:
 
